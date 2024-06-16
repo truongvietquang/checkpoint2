@@ -1,0 +1,35 @@
+.header{
+    text-align: center;
+    font-weight: bold
+}
+input{
+    outline: none;
+    border: none;
+    background-color: rgb(239, 241, 241);
+    border-radius: 5px;
+}
+.infor input{
+    padding: 15px;
+    width: 300px;
+}
+.infor-top{
+    display: flex;
+    justify-content: space-around;
+}
+.infor-message,.infor-address{
+    margin-left: 37px;
+}
+.infor-message input,.infor-address input{
+    width: 94.5%;
+    padding-bottom: 35px;
+    
+}
+.order{
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    padding: 3px 40px;
+    margin-left: 1064px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
